@@ -1,0 +1,26 @@
+Source of evidence, event to date, relation, type of related object, related event, units of difference
+Thucydides 6.3, Naxos, follows, cycle, Olympiad year 11.2, 5
+Thucydides 6.3, Catena, follows, foundation, Syracuse, 5
+Thucydides 6.3, Catena, contemporary, foundation, Leontium, 0
+Thucydides 6.4, Gela, follows, foundation, Syracuse, 45
+Jerome, Catena, follows cycle, Olympiad year 11.1, 1
+Jerome, Naxos, follows, event, Messenia captured by Lacedamonians, 5
+Messenia captured by Lacedamonians, Naxos, contemporary, eponym, Aesimides, 0
+Jerome, Gela, precedes, event, Chalcedon, 6
+Chalcedon, Gela, contemporary, eponym, Eryxias, 0
+Thucydides 6.4, Gela, contemporary, cycle, Olympiad year 22.3, 0
+Jerome, Catena, precedes, cycle, Olympiad year 12.3, 6
+Jerome, Naxus, precedes, cycle, Olympiad year 11.2, 0
+Jerome, Gela, follows, foundation, Syracuse, 47
+Jerome (Kinney), Naxus, contemporary, cycle, Olympiad year 10.1, 0
+Olympiad year 10.1, Naxus, precedes, author, Thucydides, 1
+Jerome (Kinney), Naxus, contemporary, eponym, Aesimides, 0
+Jerome (Kinney), Naxus, contemporary, eponym, Aylattes, 0
+Jerome (Kinney), Catena, contemporary, cycle, Olympiad year 11.2, 0
+Jerome (Kinney), Catena, contemporary, eponym, year 1 of Perdiccas, 0
+Jerome (Kinney), Catena, contemporary, eponym, Perdiccas.1, 0
+Perdiccas, Catena, precedes, foundation, Gela, 45
+Jerome (Kinney), Gela, contemporary, eponym, Perdiccas.46, 0
+Jerome (Kinney), Perdiccas 46 years after start of rule, contemporary, Olympiad year 22.4, 0
+Ptolemy, Olympiad year 22.4, contemporary, Perdiccas 46 years after start of reign, 0
+Ptolemy, Perdiccas, contemporary, foundation, Gela, 0

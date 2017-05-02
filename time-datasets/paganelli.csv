@@ -1,0 +1,16 @@
+Source,Event 1,Chronological relation,Units or system,event2,number of units
+Suetonius 2.5, Augustus birth,Contemporary,Epoch,Consulship of Cicero,0
+Jerome regnal era 33 r7,Consulship of Cicero,Contemporary,Epoch,Year 2 of 179 Olympiad,0
+Jerome regnal era 33 r7, Consulship of Cicero,Precedes,epoch,Cleopatra,14
+Jerome regnal era 33 r23,Cleopatra,contemporary,epoch,year 2 of Olympiad 182,0
+Jerome regnal era 34r23,rule of Cleopatra,precedes,epoch,rule of Caesar,3
+Jerome regnal era 34 r3,rule of Caesar,contemporary,epoch,year 1 of Olympiad 183,0
+Jerome regnal era 34 r3,rule of Caesar,precedes,years,death of Caesar,4
+Jerome regnal era 34 r9, Death of Caesar,contemporary,epoch,year 2 of Olympiad 184,0
+Jerome regnal era 34 r10,Death of Augustus,follows,Years,Death of Caesar,56
+Dio 56.30, death of caesar,follows,years,Battle of Actium,13
+Jerome Regnal era 34 r29, Battle of Actium,contemporary,epoch,year 4 of Olympiad 187,0
+Dio 56.30,Battle of Actium,precedes,years,death of Augustus,43
+Ptomlemy Cannon of kings r.45, Death of Augustus,follows,reganl,rule of Nabonasar,337
+Ptomlemy Almagest,Nerva,contemporary,years,Occultation of [beta] Scorpii by the Moon,0
+Ptomlemy Cannon of Kings, Death of Augustus,Precedes,regnal,rule of Nerva,83 

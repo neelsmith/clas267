@@ -1,0 +1,8 @@
+Source, Event 1, Chronological Relation, Units or System, Event 2, Number of Units
+Jerome's Chronicle Regnal Era 33 Row 24,Cleopatra's first year of reign,Contemporary,Olympiad era/cycle,3rd year of the 182nd Olympiad,0
+Jerome's Chronicle Regnal Era 34 Row 3,Julius Caesar's first year of reign,Contemporary,Olympiad era/cycle,1st year of the 183rd Olympiad,0
+Jerome's Chronicle Regnal Era 34 Row 3,Julius Caesar's first year of reign,Follows,Olympiad era/cyle,Cleopatra's first year of reign,2 
+Jerome's Chronicle Regnal Era 34 Row 9,Julius Caesar's death,Contemporary,Olympiad era/cycle,2nd year of the 184th Olympiad,0
+Jerome's Chronicle Regnal Era 34 Row 9,2nd year of the 184th Olympiad,Follows,Olympiad era/cycle,Julius Caesar's first year of reign,5
+Jerome's Chronicle Regnal Era 34 Row 9,2nd year of the 184th Olympiad,Follows,Olympiad era/cycle,Cleopatra's first year of reign,7
+Ptolemy's Canon of Kings,Cleopatra's first year of reign,Precedes,Epoch system,Total 292 years,22
