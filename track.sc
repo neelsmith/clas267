@@ -46,6 +46,10 @@ def ptol1(evtString: String, fileName: String) = {
  val evt = chron.findEvtById(evtString)
  println("Plotting path from " + evt + " to epoch of Nabonassar")
  DotWriter.writeDot(chron,evt,nabo,fileName)
+
+ //val interval = chron.sumInterval(evtString,"urn:cite2:chron:epoch:ptol1")
+ //println("Total: " + interval)
+
 }
 
 
@@ -54,4 +58,8 @@ def ptol2(evtString: String, fileName: String) = {
   val evt = chron.findEvtById(evtString)
   println("Plotting path from " + evt + " to epoch of Philip")
   DotWriter.writeDot(chron,evt,nabo,fileName)
+
+  //val interval = chron.sumInterval(evt,nabo)
+  //println("Total: " + interval)
+
 }
