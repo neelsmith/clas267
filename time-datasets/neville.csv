@@ -1,12 +1,17 @@
-Source, Event Synchronized, Relation to Second Object, Type of Related Object, Second Object Synchronized with First Event, Units of Difference between Events
-"Chronicle", First year of reign of Eurystheus, precedes, event, First Olympiad, 328
-"Chronicle", Fall of Troy, precedes, event, First Olympiad, 406 
-"Chronicle", Fall of Troy, precedes, event, First year of reign of Eurystheus, 78 
-"Chronicle", Fall of Troy, precedes, event, defeat of Romans in Thrace/ end of document, 1561
-"Chronicle", Fall of Troy, precedes, event, end of Peloponnesian War, 781
-Ptolemy List of Kings, Reign of Antaxerxes II, contemporary, eponym, end of Peloponnesian War, 0
-"Library of History", Fall of Troy, precedes, event, First Olympiad, 408
-"Library of History", First year of reign of Eurystheus, follows, event, Fall of Troy, 80
-"Library of History", First year of Eurystheus, precedes, event, First Olympiad, 328 
-"Library of History", Capture of Troy, precedes, event, end of Peloponnesian War, 779
-"Peloponnesian War", First year of Heraclids, follows, event, Fall of Troy, 80 
+Source,Event Synchronized,Relation to Second Object,Type of Related Object,Second Object Synchronized with First Event,Units of Difference between Events
+Chronicle (Kinney),urn:cite:chron:StudyofFirstOlymp:A,precedes, event,urn:cite:chron:StudyofFirstOlymp:D,80
+Chronicle (Kinney),urn:cite:chron:StudyofFirstOlymp:D,precedes,event,urn:cite:chron:StudyofFirstOlymp:B,324
+Chronicle (Kinney),urn:cite:chron:StudyofFirstOlymp:B,precedes,event,urn:cite:chron:StudyofFirstOlymp:C,377
+Chronicle (St. Gallen),urn:cite:chron:StudyofFirstOlymp:B,precedes,event,urn:cite:chron:StudyofFirstOlymp:C,378
+Chronicle (Geneva 49),urn:cite:chron:StudyofFirstOlymp:B,precedes,event,urn:cite:chron:StudyofFirstOlymp:C,376
+Chronicle (Kinney),urn:cite:chron:StudyofFirstOlymp:A,precedes,event,urn:cite:chron:StudyofFirstOlymp:B,405
+Library of History,urn:cite:chron:StudyofFirstOlymp:A,precedes,event,urn:cite:chron:StudyofFirstOlymp:D,80
+Library of History,urn:cite:chron:StudyofFirstOlymp:D,precedes,event,urn:cite:chron:StudyofFirstOlymp:B,328
+Library of History,urn:cite:chron:StudyofFirstOlymp:A,precedes,event,urn:cite:chron:StudyofFirstOlymp:B,408
+Library of History,urn:cite:chron:StudyofFirstOlymp:A,precedes,event,urn:cite:chron:StudyofFirstOlymp:C,779
+Ptolemy List of Kings,urn:cite2:chron:jer_persians:ruler7,contemporary,eponym,urn:cite:chron:StudyofFirstOlymp:C,0
+Chronicle (Kinney),urn:cite2:chron:jer_persians:ruler7,precedes,event,urn:cite:chron:StudyofFirstOlymp:C,2
+Chronicle (St. Gallen),urn:cite2:chron:jer_persians:ruler7,precedes,event,urn:cite:chron:StudyofFirstOlymp:C,3
+Chronicle (Geneva 49),urn:cite2:chron:jer_persians:ruler7,precedes,event,urn:cite:chron:StudyofFirstOlymp:C,1
+WhatSource?,urn:cite:chron:StudyofFirstOlymp:D,follows,event,urn:cite:chron:StudyofFirstOlymp:A,80
+Ptolemy Canon of Kings,urn:cite2:chron:jer_persians:ruler7,follows,years,urn:cite2:chron:epoch:ptol1,389
