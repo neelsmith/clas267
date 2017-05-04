@@ -39,16 +39,19 @@ for (f <- filesList) {
 }
 
 
-try {
 val chron = GraphFactory.fromCsv(csv.toString, catalog)
- if (chron.graph.size > 1){
-  DotWriter.writeDot(chron,"dots/unified")
- } else {
-   println("only read " + chron.graph.size + "  rows.")
- }
-} catch {
-  case e: Throwable => {
-    println("could not make graph.")
-    println(e.getMessage())
-  }
+
+def ptol1(evtString: String, fileName: String) = {
+ val nabo = chron.findEvtById("urn:cite2:chron:epoch:ptol1")
+ val evt = chron.findEvtById(evtString)
+ println("Plotting path from " + evt + " to epoch of Nabonassar")
+ DotWriter.writeDot(chron,evt,nabo,fileName)
+}
+
+
+def ptol2(evtString: String, fileName: String) = {
+  val nabo = chron.findEvtById("urn:cite2:chron:epoch:ptol2")
+  val evt = chron.findEvtById(evtString)
+  println("Plotting path from " + evt + " to epoch of Philip")
+  DotWriter.writeDot(chron,evt,nabo,fileName)
 }
