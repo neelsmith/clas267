@@ -32,7 +32,7 @@ for (f <- catalogList) yield {
 
 val srcDir =  "time-datasets/"
 val dir = new File(srcDir)
-val filesList = dir.listFiles.filter(_.isFile).toVector
+val filesList = dir.listFiles.filter(_.isFile).toVector.filter(_.toString.contains(".csv"))
 
 for (f <- filesList) {
   val fileBase = f.toString.replaceAll(".csv","").replaceAll("time-datasets/","")
@@ -52,9 +52,10 @@ for (f <- filesList) {
     }
   }U*/
 
-  var csv = StringBuilder.newBuilder
+
 
   for (f <- filesList) {
+    var csv = StringBuilder.newBuilder
     val txt = Source.fromFile(f.toString).getLines.toVector.drop(1)
     csv.append(txt.mkString("\n"))
     csv.append("\n")
