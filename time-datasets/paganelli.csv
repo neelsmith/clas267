@@ -1,0 +1,18 @@
+Source,Event 1,Chronological relation,Units or system,event2,number of units
+Suetonius 2.5,urn:cite2:chron:Paganelli:evt0:,Contemporary,Epoch,urn:cite2:chron:Paganelli:evt2:,0
+Jerome regnal era 33 r7,urn:cite2:chron:Paganelli:evt2:,Contemporary,Epoch,urn:cite2:chron:Paganelli:evt1:,0
+Jerome regnal era 33 r7,urn:cite2:chron:Paganelli:evt2:,Precedes,epoch,urn:cite2:chron:Paganelli:evt3:,14
+Jerome regnal era 33 r23,urn:cite2:chron:Paganelli:evt3:,contemporary,epoch,urn:cite2:chron:Paganelli:evt4:,0
+Jerome regnal era 34r23,urn:cite2:chron:Paganelli:evt3:,precedes,epoch,urn:cite2:chron:Paganelli:evt5:,3
+Jerome regnal era 34 r3,urn:cite2:chron:Paganelli:evt5:,contemporary,epoch,urn:cite2:chron:Paganelli:evt6:,0
+Jerome regnal era 34 r3,urn:cite2:chron:Paganelli:evt5:,precedes,years,urn:cite2:chron:Paganelli:evt7:,4
+Jerome regnal era 34 r9,urn:cite2:chron:Paganelli:evt7:,contemporary,epoch,urn:cite2:chron:Paganelli:evt8:,0
+Jerome regnal era 34 r10,urn:cite2:chron:Paganelli:evt10:,follows,Years,urn:cite2:chron:Paganelli:evt7:,56
+Dio 56.30,urn:cite2:chron:Paganelli:evt7:,follows,years,urn:cite2:chron:Paganelli:evt12:,13
+Suetonius 2.8,urn:cite2:chron:Paganelli:evt9:,Follows,years,urn:cite2:chron:Paganelli:evt7:,12
+Jerome Regnal era 34 r29,urn:cite2:chron:Paganelli:evt12:,contemporary,epoch,urn:cite2:chron:Paganelli:evt11:,0
+Dio 56.30,urn:cite2:chron:Paganelli:evt12:,precedes,years,urn:cite2:chron:Paganelli:evt10:,43
+Suetonius 2.8,urn:cite2:chron:jer_romans:ruler2,precedes,urn:cite2:chron:Paganelli:evt10:,44
+Ptolemy Cannon of kings r.45,urn:cite2:chron:jer_romans:ruler2,follows,regnal,urn:cite2:chron:epoch:ptol2,337
+Ptolemy Almagest,urn:cite2:chron:jer_romans:ruler10,contemporary,years,urn:cite2:chron:pedersen:53,0
+Ptolemy Canon of Kings,urn:cite2:chron:jer_romans:ruler2,Precedes,regnal,urn:cite2:chron:jer_romans:ruler10,83
