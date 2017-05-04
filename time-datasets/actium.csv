@@ -1,0 +1,16 @@
+Source,Event 1,Chronological Relation,Units or System,Event 2,Number of Units
+Velleius Paterculus The Roman History 2.84,urn:cite2:chron:jsmv:eponym:1,Contemporary,years,urn:cite2:chron:jsmv:event:1,0
+Velleius Paterculus The Roman History 2.87,urn:cite2:chron:jsmv:event:1,Precedes,years,urn:cite2:chon:jsmv:event:2,1
+Ptolemy Canon of Kings,urn:cite2:chron:jsmv:event:2,Precedes,years,urn:cite2:chron:heraclian:53,128
+Ptolemy Canon of Kings,urn:cite2:chron:heraclian:53,Follows,years,urn:cite2:chron:epoch:ptol2,439
+Ptolemy Almagest,urn:cite2:chron:heraclian:53,Contemporary,years,urn:cite2:chron:pedersen:53,0
+Jerome Chronicle Regnal Era 34 Row 29 (Kinney Translation),urn:cite2:chron:jsmv:event:1,Contemporary,years,urn:cite2:chron:jsmv:event:olympiad:187.4,0
+Jerome Chronicle Regnal Era 34 Row 29 (Kinney Translation),urn:cite2:chron:jsmv:event:olympiad:187.4,Precedes,Olympiads,urn:cite2:chron:jsmv:event:olympiad:218.4,31
+Ptolemy Canon of Kings,urn:cite2:chron:jsmv:event:olympiad:218.4,Contemporary,years,urn:cite2:chron:heraclian:53,0
+Ptolemy Canon of Kings,urn:cite2:chron:heraclian:53,Follows,years,urn:cite2:chron:epoch:ptol2,439
+Ptolemy Almagest,urn:cite2:chron:heraclian:53,Contemporary,years,urn:cite2:chron:pedersen:53,0
+Jerome chronicle manuscript (Bibliothèque de Genève Ms. lat. 49),urn:cite2:chron:jsmv:event:1,Contemporary,years,urn:cite2:chron:jsmv:event:olympiad:187.4,0
+Jerome chronicle manuscript (Bibliothèque de Genève Ms. lat. 49),urn:cite2:chron:jsmv:event:olympiad:187.4,Precedes,Olympiads,urn:cite2:chron:jsmv:event:olympiad:219.2,32
+Ptolemy Canon of Kings,urn:cite2:chron:jsmv:event:olympiad:219.2,Contemporary,years,urn:cite2:chron:heraclian:53,0
+Ptolemy Canon of Kings,urn:cite2:chron:heraclian:53,Follows,years,urn:cite2:chron:epoch:ptol2,439
+Ptolemy Almagest,urn:cite2:chron:heraclian:53,Contemporary,years,urn:cite2:chron:pedersen:53,0

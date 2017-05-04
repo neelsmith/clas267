@@ -4,5 +4,5 @@ Thucydides 2.2.1,urn:cite2:chron:myles:evt2,Follows,month,urn:cite2:chron:myles:
 Diodorus Siculus 12.37,urn:cite2:chron:myles:evt3,Contemporary,year,urn:cite2:chron:myles:evt4,0
 Jerome,urn:cite2:chron:myles:evt3,Precedes,year,urn:cite2:chron:jer_athens:ruler1,1
 Jerome,urn:cite2:chron:myles:evt3,Follows,year,urn:cite2:chron:jer_athens:ruler2,1
-Ptolemy’s Canon of Kings,urn:cite2:chron:canon:1,Follows,year,urn:cite2:chron:canon:2,286
-Ptolemy’s Canon of Kings,urn:cite2:chron:canon:1,Contemporary,year,urn:cite2:chron:myles:evt2,0
+Ptolemy Canon of Kings,urn:cite2:chron:canon:1,Follows,year,urn:cite2:chron:canon:2,286
+Ptolemy Canon of Kings,urn:cite2:chron:canon:1,Contemporary,year,urn:cite2:chron:myles:evt2,0
