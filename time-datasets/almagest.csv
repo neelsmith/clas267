@@ -1,0 +1,26 @@
+Source,Astronomical event,Chronological relation,units,Astronomical event 2,Number of units
+Ptolemy Almagest,urn:cite2:chron:astron:1,precedes,days,urn:cite2:chron:astron:2,354
+Ptolemy Almagest,urn:cite2:chron:astron:2,precedes,days,urn:cite2:chron:astron:3,177
+Ptolemy Almagest,urn:cite2:chron:astron:3,precedes,days,urn:cite2:chron:astron:4,36387
+Ptolemy Almagest,urn:cite2:chron:astron:4,precedes,days,urn:cite2:chron:astron:5,35875
+Ptolemy Almagest,urn:cite2:chron:astron:5,precedes,days,urn:cite2:chron:astron:6,7426
+Ptolemy Almagest,urn:cite2:chron:astron:6,precedes,days,urn:cite2:chron:astron:7,3805
+Ptolemy Almagest,urn:cite2:chron:astron:7,precedes,days,urn:cite2:chron:astron:9,40053
+Ptolemy Almagest,urn:cite2:chron:astron:9,precedes,days,urn:cite2:chron:astron:10,178
+Ptolemy Almagest,urn:cite2:chron:astron:10,precedes,days,urn:cite2:chron:astron:11,172
+Ptolemy Almagest,urn:cite2:chron:astron:11,precedes,days,urn:cite2:chron:astron:12,31785
+Ptolemy Almagest,urn:cite2:chron:astron:11,precedes,days,urn:cite2:chron:astron:30,65665
+Ptolemy Almagest,urn:cite2:chron:astron:30,precedes,days,urn:cite2:chron:astron:31,173
+Ptolemy Almagest,urn:cite2:chron:astron:31,precedes,days,urn:cite2:chron:astron:32,176
+Ptolemy Almagest,urn:cite2:chron:astron:32,precedes,days,urn:cite2:chron:astron:33,9728
+Ptolemy Almagest,urn:cite2:chron:astron:33,precedes,days,urn:cite2:chron:astron:39,10014
+Ptolemy Almagest,urn:cite2:chron:astron:39,precedes,days,urn:cite2:chron:astron:42,1583
+Ptolemy Almagest,urn:cite2:chron:astron:42,precedes,days,urn:cite2:chron:astron:43,1583
+Ptolemy Almagest,urn:cite2:chron:astron:43,precedes,days,urn:cite2:chron:astron:54,94063
+Ptolemy Almagest,urn:cite2:chron:astron:54,precedes,days,urn:cite2:chron:astron:63,2948
+Ptolemy Almagest,urn:cite2:chron:astron:63,precedes,days,urn:cite2:chron:astron:69,532
+Ptolemy Almagest,urn:cite2:chron:astron:69,precedes,days,urn:cite2:chron:astron:73,502
+Ptolemy Almagest,urn:cite2:chron:astron:1,contemporary,years,Accession of Mardokempad,0
+Ptolemy Canon,Accession of Mardokempad,follows,years,urn:cite2:chron:epoch:ptol1,26
+Ptolemy Almagest,urn:cite2:chron:astron:9,contemporary,years,Accession of Phanostratos (Athenian Archon),0
+Ptolemy Canon,Accession of Phanostratos (Athenian Archon),follows,years,urn:cite2:chron:epoch:ptol1,366
