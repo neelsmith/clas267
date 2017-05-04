@@ -1,0 +1,19 @@
+Source,URN identifier,Chronological Relation,System,Event 2,Units
+Thucydides,urn:cite2:chron:sic:col:2,Follows,Year,urn:cite2:chron:sic:col:1,1
+Thucydides,urn:cite2:chron:sic:col:3,Follows,Year,urn:cite2:chron:sic:col:2,4
+Thucydides,urn:cite2:chron:sic:col:4,Follows,Year,urn:cite2:chron:sic:col:2,5
+Thucydides,urn:cite2:chron:sic:col:5,Follows,relative,Foundation of Zancle,0
+Thucydides,urn:cite2:chron:sic:col:7,Follows,Year,urn:cite2:chron:sic:col:2,45
+Thucydides,urn:cite2:chron:sic:col:8,Follows,Year,urn:cite2:chron:sic:col:2,70
+Thucydides,urn:cite2:chron:sic:col:9,Follows,relative,urn:cite2:chron:sic:col:8,0
+Thucydides,urn:cite2:chron:sic:col:10,Follows,Year,urn:cite2:chron:sic:col:16,100
+Thucydides,urn:cite2:chron:sic:col:13,Follows,Year,urn:cite2:chron:sic:col:2,135
+Thucydides,urn:cite2:chron:sic:col:14,Follows,Year,urn:cite2:chron:sic:col:2,108
+Jerome,urn:cite2:chron:sic:col:1,Precedes,Year,urn:cite2:chron:canon:1,180
+Ptolemy,urn:cite2:chron:canon:1,Follows,Year,urn:cite2:chron:epoch:ptol1,209
+Jerome,urn:cite2:chron:sic:col:2,Follows,Year,urn:cite2:chron:sic:col:1,5
+Jerome,urn:cite2:chron:sic:col:3,Follows,Year,urn:cite2:chron:sic:col:2,1
+Jerome,urn:cite2:chron:sic:col:4,Follows,Year,urn:cite2:chron:sic:col:3,19
+Jerome,urn:cite2:chron:sic:col:5,Follows,Year,urn:cite2:chron:sic:col:4,29
+Jerome,urn:cite2:chron:sic:col:6,Follows,Year,urn:cite2:chron:sic:col:5,41
+Canon of Kings,urn:cite2:chron:epoch:ptol1,Precedes,Year,urn:cite2:chron:canon:1,209
