@@ -1,0 +1,22 @@
+Catalog of Epoch Moments:
+
+urn:cite2:chron:epoch:ptol2, Epoch of Philip in Ptolemy’s Canon of Kings
+
+Catalog of Events:
+
+urn:cite2:chron:plummer:evt1, Death of Julius Caesar
+urn:cite2:chron:jer_alexandrians:ruler12, Accession of Cleopatra 
+urn:cite2:chron:jer_romans:ruler1, Accession of Julius Caesar
+urn:cite:chron:olympiadyear.182_3, Olympiad 182 year 3
+urn:cite:chron:olympiadyear.183_1, Olympiad 183 year 1
+urn:cite:chron:olympiadyear.184_2, Olympiad 184 year 2
+
+Source, Event 1, Chronological Relation, Units or System, Event 2, Number of Units
+
+Jerome’s Chronicle,urn:cite2:chron:jer_alexandrians:ruler12,Contemporary,Olympiad era/cycle,urn:cite:chron:olympiadyear.182_3,0
+Jerome’s Chronicle,urn:cite2:chron:jer_romans:ruler1,Contemporary,Olympiad era/cycle,urn:cite:chron:olympiadyear.183_1,0
+Jerome’s Chronicle,urn:cite2:chron:jer_romans:ruler1,Follows,Olympiad era/cycle,urn:cite2:chron:jer_alexandrians:ruler12,2 
+Jerome’s Chronicle,urn:cite2:chron:plummer:evt1,Contemporary,Olympiad era/cycle,urn:cite:chron:olympiadyear.184_2,0
+Jerome’s Chronicle,urn:cite:chron:olympiadyear.184_2,Follows,Olympiad era/cycle,urn:cite2:chron:jer_romans:ruler1,5
+Jerome’s Chronicle,urn:cite:chron:olympiadyear.184_2,Follows,Olympiad era/cycle,urn:cite2:chron:jer_alexandrians:ruler12,7
+Ptolemy’s Canon,urn:cite2:chron:jer_alexandrians:ruler12,Follows,Epoch system,urn:cite2:chron:epoch:ptol2,272

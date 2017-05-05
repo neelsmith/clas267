@@ -1,0 +1,55 @@
+Myles O’Brien
+Model of Chronology
+
+
+Plain English 
+
+
+Source, Event 1, Chronological Relation, Units or System, Event 2, Number of Units
+
+
+Thucydides 2.54.5, Outbreak of Plague, Contemporary, year, Outbreak of Peloponnesian War, 0
+
+Thucydides 2.2.1, Outbreak of Peloponnesian War, Follows, month, Archonship of Pythodorus, 2
+
+Diodorus Siculus 12.37, Archonship of Pythodorus, Contemporary, year, Eighty-seventh Olympiad that in which Sophron of Ambracia won the "stadion”, 0
+
+Jerome, Archonship of Pythodorus, Precedes, year, Archonship of Euthydimos, 1
+
+Jerome, Archonship of Pythodorus, Follows, year, Archonship of Apseudes, 1 
+
+Ptolemy’s Canon of Kings, Persian King Artaxerxes the First, Follows, year, The first Persian King Nabonassaros, 286 (432BCE?)
+
+Ptolemy’s Canon of Kings, Persian King Artaxerxes the First, Contemporary, year, Outbreak of Peloponnesian War, 0
+
+
+
+Catalog of Sources
+
+urn:cite2:chron:myles:evt1, Outbreak of Plague
+urn:cite2:chron:myles:evt2, Outbreak of Peloponnesian War
+urn:cite2:chron:myles:evt3, Archonship of Pythodorus
+urn:cite2:chron:myles:evt4, Eighty-seventh Olympiad that in which Sophron of Ambracia won the "stadion”
+urn:cite2:chron:jer_athens:ruler1, Archonship of Euthydimos
+urn:cite2:chron:dio_sic:87,Eighty-seventh Olympiad that in which Sophron of Ambracia won the "stadion”
+urn:cite2:chron:jer_athens:ruler2,Archonship of Apseudes
+urn:cite2:chron:canon:1, Persian King Artaxerxes the First
+urn:cite2:chron:canon:2, The first Persian King Nabonassaros
+
+
+
+URN Language
+
+Thucydides 2.54.5, urn:cite2:chron:myles:evt1, Contemporary, year, urn:cite2:chron:myles:evt2, 0
+
+Thucydides 2.2.1, urn:cite2:chron:myles:evt2, Follows, month, urn:cite2:chron:myles:evt3, 2
+
+Diodorus Siculus 12.37, urn:cite2:chron:myles:evt3, Contemporary, year, urn:cite2:chron:myles:evt4, 0
+
+Jerome, urn:cite2:chron:myles:evt3, Precedes, year, urn:cite2:chron:jer_athens:ruler1, 1
+
+Jerome, urn:cite2:chron:myles:evt3, Follows, year, urn:cite2:chron:jer_athens:ruler2, 1
+
+Ptolemy’s Canon of Kings, urn:cite2:chron:canon:1, Follows, year, urn:cite2:chron:canon:2, 286
+
+Ptolemy’s Canon of Kings, urn:cite2:chron:canon:1, Contemporary, year, urn:cite2:chron:myles:evt2, 0    

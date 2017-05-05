@@ -13,7 +13,7 @@ import scalax.collection.GraphPredef._
 import edu.holycross.shot.chrongraph._
 
 import java.io.File
-
+import scala.io.Source
 
 
 val catalogDir =  new File("eventcatalogs/")
@@ -36,39 +36,19 @@ val filesList = dir.listFiles.filter(_.isFile).toVector.filter(_.toString.contai
 
 for (f <- filesList) {
   val fileBase = f.toString.replaceAll(".csv","").replaceAll("time-datasets/","")
+  println("Graphing data from " + fileBase)
+  var csv = StringBuilder.newBuilder
+  val txt = Source.fromFile(f.toString).getLines.toVector.drop(1)
+  csv.append(txt.mkString("\n"))
+  csv.append("\n")
 
-  /*
   try {
-   val chron = GraphSource(srcDir + fileBase + ".csv",catalog)
-   if (chron.graph.size > 1){
+    val chron = GraphFactory.fromCsv(csv.toString, catalog)
     DotWriter.writeDot(chron,"dots/" + fileBase)
-   } else {
-     println("only read " + chron.graph.size + "  rows.")
-   }
   } catch {
     case e: Throwable => {
-      println("could not make graph.")
+      println("could not make graph from " + f)
       println(e.getMessage())
     }
-  }U*/
-
-
-
-  for (f <- filesList) {
-    var csv = StringBuilder.newBuilder
-    val txt = Source.fromFile(f.toString).getLines.toVector.drop(1)
-    csv.append(txt.mkString("\n"))
-    csv.append("\n")
-
-    try {
-      val chron = GraphFactory.fromCsv(csv.toString, catalog)
-      DotWriter.writeDot(chron,"dots/" + fileBase)
-    } catch {
-      case e: Throwable => {
-        println("could not make graph from " + f)
-        println(e.getMessage())
-      }
-    }
-
   }
 }
