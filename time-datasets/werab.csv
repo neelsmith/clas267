@@ -1,7 +1,8 @@
 Source, Event 1, Chronological relation, units or system, Event 2, Number of units
-Jerome, Olympiad 75 year 1, contemporary, year, Year 6 of Xerxes, 0
-Herodotus 9.3, Year 6 of Xerxes, precedes, months, Mardonius occupying Athens, 10
-Diodorus 11.27, Mardonius occupying Athens, contemporary, year, Archonship of Xanthippus, 0
-Diodorus 12.35, Archonship of Xanthippus, precedes, year, Archonship of Crates, 45
-Diodorus 12.36, Archonship of Crates, precedes, year, Archonship of Apseudes, 2
-Ptolemy 3.1, Archonship of Apseudes, contemporary, year, Time of Summer Solstice in 432 BCE, 0
+PtolemyCanon, urn:cite2:chron:epoch:ptol1, precedes, years, urn:cite2:chron:jer_persians:ruler4, 262
+JeromeChron, urn:cite2:chron:jer_persians:ruler4, precedes, years, urn:cite2:chron:olympiadyear.75_1, 6
+Herod9.3, urn:cite2:chron:olympiadyear.75_1, precedes, months, urn:cite2:chron:werab:evt1, 10 
+Diod11.27, urn:cite2:chron:werab:evt1, contemporary, years, urn:cite2:chron:archon:30, 0
+Diod12.35, urn:cite2:chron:archon:30, precedes, years, urn:cite2:chron:archon:15, 45
+Diod12.36, urn:cite2:chron:archon:15, precedes, years, urn:cite2:chron:archon:72, 2
+PtolemyCanon, urn:cite2:chron:archon:72, contemporary, year, urn:cite2:chron:werab:evt2, 0
