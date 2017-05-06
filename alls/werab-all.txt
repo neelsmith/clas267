@@ -1,0 +1,48 @@
+Blake Werab
+CLAS 267 Archaeology and Time
+Prof. Neel Smith
+05/02/2017
+
+Catalog of Events
+
+urn:cite2:chron:epoch:ptol1, Epoch of Nabonassar in Ptolemy’s Cannon of Kings
+urn:cite2:chron:jer_persians:ruler4, Accession of Xerxes
+urn:cite2:chron:werab:evt1, Mardonius occupying Athens
+urn:cite2:chron:werab:evt2, Time of Summer Solstice in 432 BCE
+urn:cite2:chron:olympiadyear.75_1, Olympiad 75 year 1
+urn:cite2:chron:archon:30, Archonship of Xanthippus 
+urn:cite2:chron:archon:15, Archonship of Crates
+urn:cite2:chron:archon:72, Archonship of Apseudes
+
+
+Catalog of Sources
+
+urn:cts:greekLit:tlg0363.tlg001, Ptolemy’s Almagest
+urn:cts:greekLit:tlg0527.tlg015, Jerome’s Chronicles
+urn:cts:greekLit:tlg0016.tlg001, Herodotus’ History
+urn:cts:greekLit:tlg0060.tlg001, Diodorus of Sicily’s History
+
+
+
+Source, Event 1, Chronological relation, units or system, Event 2, Number of units
+
+PtolemyCanon, Epoch of Nabonassar in Ptolemy’s Cannon of Kings, precedes, years, Accession of Xerxes, 262
+JeromeChron, Accession of Xerxes, precedes, years, Olympiad 75 year 1, 6
+Herod9.3, Olympiad 75 year 1, precedes, months, Mardonius occupying Athens, 10 
+Diod11.27, Mardonius occupying Athens, contemporary, years, Archonship of Xanthippus, 0
+Diod12.35, Archonship of Xanthippus, precedes, years, Archonship of Crates, 45
+Diod12.36, Archonship of Crates, precedes, years, Archonship of Apseudes, 2
+PtolemyCanon, Archonship of Apseudes, contemporary, year, Time of Summer Solstice in 432 BCE
+
+
+
+Source, Event 1, Chronological relation, units or system, Event 2, Number of units
+
+PtolemyCanon, urn:cite2:chron:epoch:ptol1, precedes, years, urn:cite2:chron:jer_persians:ruler4, 262
+JeromeChron, urn:cite2:chron:jer_persians:ruler4, precedes, years, urn:cite2:chron:olympiadyear.75_1, 6
+Herod9.3, urn:cite2:chron:olympiadyear.75_1, precedes, months, urn:cite2:chron:werab:evt1, 10 
+Diod11.27, urn:cite2:chron:werab:evt1, contemporary, years, urn:cite2:chron:archon:30, 0
+Diod12.35, urn:cite2:chron:archon:30, precedes, years, urn:cite2:chron:archon:15, 45
+Diod12.36, urn:cite2:chron:archon:15, precedes, years, urn:cite2:chron:archon:72, 2
+PtolemyCanon, urn:cite2:chron:archon:72, contemporary, year, urn:cite2:chron:werab:evt2, 0
+

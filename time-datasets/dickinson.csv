@@ -1,6 +1,6 @@
 Source,Event,Chronological relation,Units or system,Event2,Number of units
-Ptolemy Canon of Kings,Era of Philip,precedes,year,Philometor's end,178
-Livy Periochae 52,Philometor's end,follows,relative,Destruction of Carthage,
-Livy Periochae 51,Destruction of Carthage,follows,year,Foundation of Carthage,700
-Livy Periochae 49,Destruction of Carthage,follows,year,Third Punic War,5
-Livy Periochae 49,Third Punic War,follows,year,Foundation of Rome,602
+Ptolemy Canon of Kings,urn:cite2:chron:epoch:ptol2,precedes,year,urn:cite2:chron:dickinson:evnt1,178
+Livy Periochae 52,urn:cite2:chron:dickinson:evnt1,follows,relative,urn:cite2:chron:dickinson:evnt2,0
+Livy Periochae 51,urn:cite2:chron:dickinson:evnt2,follows,year,urn:cite2:chron:dickinson:evnt3,700
+Livy Periochae 49,urn:cite2:chron:dickinson:evnt2,follows,year,urn:cite2:chron:dickinson:evnt4,5
+Livy Periochae 49,urn:cite2:chron:dickinson:evnt4,follows,year,urn:cite2:chron:dickinson:evnt5,602
