@@ -1,8 +1,8 @@
 Source,urn identifier,Chronological Relation,System,Event 2,Units
 Jerome Chronicle,urn:cite2:chron:cowherd:evt1,Precedes,Relative,urn:cite2:chron:cowherd:evt2,0
 Dio History of Rome,urn:cite2:chron:cowherd:evt2,Precedes,Relative,urn:cite2:chron:cowherd:evt4,0
-Jerome Chronicle,urn:cite2:chron:cowherd:evt3,Precedes,Years,urn:cite2:chron:cowherd:evt4,7
-Ptolemy Canon of Kings,urn:cite2:chron:cowherd:evt3,Follows,Years,urn:cite2:chron:epoch:ptol2,272
+Jerome Chronicle,urn:cite2:chron:jer_alexandrians:ruler12,Precedes,Years,urn:cite2:chron:cowherd:evt4,7
+Ptolemy Canon of Kings,urn:cite2:chron:jer_alexandrians:ruler12,Follows,Years,urn:cite2:chron:epoch:ptol2,272
 Strabo Geographia,urn:cite2:chron:cowherd:evt5,Precedes,Relative,urn:cite2:chron:cowherd:evt1,0
 Strabo Geographia,urn:cite2:chron:cowherd:evt1,Contemporary,Years,urn:cite2:chron:cowherd:evt6,0
 Ptolemy Canon of Kings,urn:cite2:chron:cowherd:evt6,Follows,Years,urn:cite2:chron:epoch:ptol2,337
