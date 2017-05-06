@@ -1,1 +1,5 @@
-Source,Event,Chronological relation,Units or system,Event2,Number of unitsJerome's regnal era 36 r.12, Vesuvius, follows, years, Titus coming to power, 2Ptolemy Canon of Kings r.51, Titus coming to power, precedes, years, Nerva coming to power, 16Almagest, Nerva coming to power, contemporary, years, occultation of Scorpii, 0
+Source, Event 1, Chronological relation, Units or system, Event 2,Number of units
+JeromeRegnalEra 36 r.12,urn:cite2:chron:aramini:evt1,follows,years,urn:cite2:chron:jer_romans:ruler8,2
+PtolemyCanon r.51,urn:cite2:chron:jer_romans:ruler8,precedes,years,urn:cite2:chron:jer_romans:ruler10,16
+PtolemyCanon r.53,urn:cite2:chron:jer_romans:ruler10,follows,years,urn:cite2:chron:epoch:ptol2,420
+PtolemyAlmagest,urn:cite2:chron:epoch:ptol2,contemporary with,years,urn:cite2:chron:aramini:evt2,0 
