@@ -32,7 +32,7 @@ def getCatalog = {
 }
 
 
-def synchronisms(catalog: Map[String,String]) = {
+def synchronisms(catalog: Map[String,String]): ChronologicalGraph = {
   var csv = StringBuilder.newBuilder
   val csvDir = new File("time-datasets/")
   val filesList = csvDir.listFiles.filter(_.isFile).toVector.filter(_.toString.contains(".csv"))
@@ -45,13 +45,14 @@ def synchronisms(catalog: Map[String,String]) = {
   val chron = GraphFactory.fromCsv(csv.toString, catalog)
   chron
 }
-/*
+
 def ptol1(evtString: String, fileName: String) = {
+  val catalog = getCatalog
+  val chron = synchronisms(catalog)
+
  val nabo = chron.findEvtById("urn:cite2:chron:epoch:ptol1")
  val evt = chron.findEvtById(evtString)
 
- val catalog = getCatalog
- val chron = synchronisms(catalog)
  println("Plotting path from " + evt + " to epoch of Nabonassar")
  DotWriter.writeDot(chron,evt,nabo,fileName)
 
@@ -60,16 +61,25 @@ def ptol1(evtString: String, fileName: String) = {
 
 }
 
+
+def pathToEpoch(evtString: String) = {
+  val catalog = getCatalog
+  val chron = synchronisms(catalog)
+  val interval = chron.sumInterval(evtString,"urn:cite2:chron:epoch:ptol1")
+  println("Total: " + interval)
+}
+
 def pt2pt(evt1String: String, evt2String: String, fileName: String) = {
+  val catalog = getCatalog
+  val chron = synchronisms(catalog)
+
    val evt1 = chron.findEvtById(evt1String)
    val evt2 = chron.findEvtById(evt2String)
 
-   val catalog = getCatalog
-   val chron = synchronisms(catalog)
-   println("Plotting path from " + evt1 + " to " + evt2)
+   println("Plotting path from " + evt1 + " to " + evt2 + " using file " + fileName)
    DotWriter.writeDot(chron,evt1,evt2,fileName)
 }
-*/
+
 def single(projFile: String) = {
   val catalog = getCatalog
 
