@@ -15,6 +15,9 @@ import java.io.File
 import scala.io.Source
 
 
+
+val naboString = "urn:cite2:chron:epoch:ptol1"
+
 def getCatalog = {
   val catalogDir =  new File("eventcatalogs/")
   val catalogList = catalogDir.listFiles.filter(_.isFile).toVector.filter(_.toString.contains(".csv"))
@@ -50,14 +53,13 @@ def ptol1(evtString: String, fileName: String) = {
   val catalog = getCatalog
   val chron = synchronisms(catalog)
 
- val nabo = chron.findEvtById("urn:cite2:chron:epoch:ptol1")
+ val nabo = chron.findEvtById(naboString)
  val evt = chron.findEvtById(evtString)
 
- println("Plotting path from " + evt + " to epoch of Nabonassar")
+ println("Plotting path from " + evt + " to " + nabo)
  DotWriter.writeDot(chron,evt,nabo,fileName)
 
- //val interval = chron.sumInterval(evtString,"urn:cite2:chron:epoch:ptol1")
- //println("Total: " + interval)
+ pathToEpoch(evtString)
 
 }
 
@@ -65,8 +67,19 @@ def ptol1(evtString: String, fileName: String) = {
 def pathToEpoch(evtString: String) = {
   val catalog = getCatalog
   val chron = synchronisms(catalog)
-  val interval = chron.sumInterval(evtString,"urn:cite2:chron:epoch:ptol1")
-  println("Total: " + interval)
+  val interval = chron.sumInterval(evtString,naboString, true)
+
+
+  val nabo = chron.findEvtById(naboString)
+  val evt = chron.findEvtById(evtString)
+
+
+  println("\n\n")
+  println("Interval from " + evt + " to " + nabo)
+  println("Total: " )
+  for (k <- interval.keySet) {
+    println(k + ": " + interval(k))
+  }
 }
 
 def pt2pt(evt1String: String, evt2String: String, fileName: String) = {

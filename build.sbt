@@ -5,5 +5,5 @@ resolvers += Resolver.jcenterRepo
 resolvers += Resolver.bintrayRepo("neelsmith","maven")
 
 libraryDependencies ++=   Seq(
-  "edu.holycross.shot" %% "chrongraph" % "0.1.4"
+  "edu.holycross.shot" %% "chrongraph" % "0.2.2"
 )
