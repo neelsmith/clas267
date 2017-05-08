@@ -49,20 +49,6 @@ def synchronisms(catalog: Map[String,String]): ChronologicalGraph = {
   chron
 }
 
-def ptol1(evtString: String, fileName: String) = {
-  val catalog = getCatalog
-  val chron = synchronisms(catalog)
-
- val nabo = chron.findEvtById(naboString)
- val evt = chron.findEvtById(evtString)
-
- println("Plotting path from " + evt + " to " + nabo)
- DotWriter.writeDot(chron,evt,nabo,fileName)
-
- pathToEpoch(evtString)
-
-}
-
 
 def pathToEpoch(evtString: String) = {
   val catalog = getCatalog
@@ -81,6 +67,22 @@ def pathToEpoch(evtString: String) = {
     println(k + ": " + interval(k))
   }
 }
+
+def ptol1(evtString: String, fileName: String) = {
+  val catalog = getCatalog
+  val chron = synchronisms(catalog)
+
+ val nabo = chron.findEvtById(naboString)
+ val evt = chron.findEvtById(evtString)
+
+ println("Plotting path from " + evt + " to " + nabo)
+ DotWriter.writeDot(chron,evt,nabo,fileName)
+
+ pathToEpoch(evtString)
+
+}
+
+
 
 def pt2pt(evt1String: String, evt2String: String, fileName: String) = {
   val catalog = getCatalog
