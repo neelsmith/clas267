@@ -12,7 +12,7 @@ Path highlighted in red in
 
 [![network](actium.png) ](actium.png)
 
-        Interval from Battle of Actium to Epoch of Nabonassar in Ptolemy’s Cannon of Kings
+        Interval from Battle of Actium to Epoch of Nabonassar in Ptolemy’s Canon of Kings
         TOTAL CONNECTIONS: 5
 
         Battle of Actium -> 187 olympiad year 4
