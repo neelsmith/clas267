@@ -1,17 +1,17 @@
 Source,Event Synchronized,Relation to Second Object,Type of Related Object,Second Object Synchronized with First Event,Units of Difference between Events
 Chronicle (Kinney),urn:cite:chron:StudyofFirstOlymp:A,precedes, event,urn:cite:chron:StudyofFirstOlymp:D,80
-Chronicle (Kinney),urn:cite:chron:StudyofFirstOlymp:D,precedes,event,urn:cite:chron:StudyofFirstOlymp:B,324
-Chronicle (Kinney),urn:cite:chron:StudyofFirstOlymp:B,precedes,event,urn:cite:chron:StudyofFirstOlymp:C,377
-Chronicle (St. Gallen),urn:cite:chron:StudyofFirstOlymp:B,precedes,event,urn:cite:chron:StudyofFirstOlymp:C,378
-Chronicle (Geneva 49),urn:cite:chron:StudyofFirstOlymp:B,precedes,event,urn:cite:chron:StudyofFirstOlymp:C,376
-Chronicle (Kinney),urn:cite:chron:StudyofFirstOlymp:A,precedes,event,urn:cite:chron:StudyofFirstOlymp:B,405
-Library of History,urn:cite:chron:StudyofFirstOlymp:A,precedes,event,urn:cite:chron:StudyofFirstOlymp:D,80
-Library of History,urn:cite:chron:StudyofFirstOlymp:D,precedes,event,urn:cite:chron:StudyofFirstOlymp:B,328
-Library of History,urn:cite:chron:StudyofFirstOlymp:A,precedes,event,urn:cite:chron:StudyofFirstOlymp:B,408
-Library of History,urn:cite:chron:StudyofFirstOlymp:A,precedes,event,urn:cite:chron:StudyofFirstOlymp:C,779
+Chronicle (Kinney),urn:cite:chron:StudyofFirstOlymp:D,precedes,years,urn:cite:chron:StudyofFirstOlymp:B,324
+Chronicle (Kinney),urn:cite:chron:StudyofFirstOlymp:B,precedes,years,urn:cite:chron:StudyofFirstOlymp:C,377
+Chronicle (St. Gallen),urn:cite:chron:StudyofFirstOlymp:B,precedes,years,urn:cite:chron:StudyofFirstOlymp:C,378
+Chronicle (Geneva 49),urn:cite:chron:StudyofFirstOlymp:B,precedes,years,urn:cite:chron:StudyofFirstOlymp:C,376
+Chronicle (Kinney),urn:cite:chron:StudyofFirstOlymp:A,precedes,years,urn:cite:chron:StudyofFirstOlymp:B,405
+Library of History,urn:cite:chron:StudyofFirstOlymp:A,precedes,years,urn:cite:chron:StudyofFirstOlymp:D,80
+Library of History,urn:cite:chron:StudyofFirstOlymp:D,precedes,years,urn:cite:chron:StudyofFirstOlymp:B,328
+Library of History,urn:cite:chron:StudyofFirstOlymp:A,precedes,years,urn:cite:chron:StudyofFirstOlymp:B,408
+Library of History,urn:cite:chron:StudyofFirstOlymp:A,precedes,years,urn:cite:chron:StudyofFirstOlymp:C,779
 Ptolemy List of Kings,urn:cite2:chron:jer_persians:ruler7,contemporary,eponym,urn:cite:chron:StudyofFirstOlymp:C,0
-Chronicle (Kinney),urn:cite2:chron:jer_persians:ruler7,precedes,event,urn:cite:chron:StudyofFirstOlymp:C,2
-Chronicle (St. Gallen),urn:cite2:chron:jer_persians:ruler7,precedes,event,urn:cite:chron:StudyofFirstOlymp:C,3
-Chronicle (Geneva 49),urn:cite2:chron:jer_persians:ruler7,precedes,event,urn:cite:chron:StudyofFirstOlymp:C,1
-WhatSource?,urn:cite:chron:StudyofFirstOlymp:D,follows,event,urn:cite:chron:StudyofFirstOlymp:A,80
+Chronicle (Kinney),urn:cite2:chron:jer_persians:ruler7,precedes,years,urn:cite:chron:StudyofFirstOlymp:C,2
+Chronicle (St. Gallen),urn:cite2:chron:jer_persians:ruler7,precedes,years,urn:cite:chron:StudyofFirstOlymp:C,3
+Chronicle (Geneva 49),urn:cite2:chron:jer_persians:ruler7,precedes,years,urn:cite:chron:StudyofFirstOlymp:C,1
+WhatSource?,urn:cite:chron:StudyofFirstOlymp:D,follows,years,urn:cite:chron:StudyofFirstOlymp:A,80
 Ptolemy Canon of Kings,urn:cite2:chron:jer_persians:ruler7,follows,years,urn:cite2:chron:epoch:ptol1,389
