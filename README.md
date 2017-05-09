@@ -6,7 +6,7 @@ This repository hosts chronological graphs built as part of course projects in C
 
 ## Visualizations
 
-
+![Network of relations](imgs/network.png)
 
 
 ## How to use the included scripts
