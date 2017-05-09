@@ -3,6 +3,9 @@
 This repository hosts chronological graphs built as part of course projects in CLAS267, "Archaeology and Time," at Holy Cross in the spring semester of 2017.
 
 
+(All images on these pages are linked to the full source image in this repository: click to follow the link.)
+
+
 [![Network of relations](imgs/network.png) ](./imgs/network.png)
 
 
