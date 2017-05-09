@@ -30,7 +30,7 @@ TBA : link to brief description of project modelling evidence for chronology.
 - [Sack of Carthage](projects/carthage.md) (Jeffrey Dickinson)
 - Tomb 2 at Vergina (Amanda Kondek)
 - Foundation of selected colonies in Sicily (Kelsey Littlefield)
-- [First Olympic games](projets/firstolympiad.md) (Stephanie Neville)
+- [First Olympic games](projects/firstolympiad.md) (Stephanie Neville)
 - The plague in Athens (Myles O'Brien)
 - Death of Julius Caesar (Stephen Paganelli)
 - [Caesar and Cleopatra](projects/cleopatra.md) (Siobhan Plummer)
