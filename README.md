@@ -29,7 +29,7 @@ TBA : link to brief description of project modelling evidence for chronology.
 - [Destruction of the Library of Alexandria](projects/library.md) (Nora Cowherd)
 - [Sack of Carthage](projects/carthage.md) (Jeffrey Dickinson)
 - Tomb 2 at Vergina (Amanda Kondek)
-- Foundation of selected colonies in Sicily (Kelsey Littlefield)
+- [Foundation of selected colonies in Sicily](projects/gela.md) (Kelsey Littlefield)
 - [First Olympic games](projects/firstolympiad.md) (Stephanie Neville)
 - [The plague in Athens](projects/plague.md) (Myles O'Brien)
 - Death of Julius Caesar (Stephen Paganelli)
