@@ -34,7 +34,7 @@ TBA : link to brief description of project modelling evidence for chronology.
 - The plague in Athens (Myles O'Brien)
 - Death of Julius Caesar (Stephen Paganelli)
 - Caesar and Cleopatra (Siobhan Plummer)
-- Sicilian colonization (Zak Jung and Jack Skinner)
+- [Sicilian colonization](projects/naxos.md) (Zak Jung and Jack Skinner)
 - Outbreak of the Peloponnesian war (Blake Werab)
 
 
