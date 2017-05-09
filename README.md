@@ -8,11 +8,15 @@ This repository hosts chronological graphs built as part of course projects in C
 
 ## What we did
 
-
+TBA : link to brief description of project modelling evidence for chronology.
 
 ## What's here
 
-
+- collected data sets:
+    - catalogs of events
+    - formal models of synchronisms
+- for each project, visualizations and automated summaries of shortest paths from a given event to the epoch of Nabonasar (747 BCE).  See links to individual projects below.
+- source code for all software used in this project
 
 ## Individual projects
 
