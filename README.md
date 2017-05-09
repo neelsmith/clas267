@@ -31,7 +31,7 @@ TBA : link to brief description of project modelling evidence for chronology.
 - Tomb 2 at Vergina (Amanda Kondek)
 - Foundation of selected colonies in Sicily (Kelsey Littlefield)
 - [First Olympic games](projects/firstolympiad.md) (Stephanie Neville)
-- The plague in Athens (Myles O'Brien)
+- [The plague in Athens](projects/plague.md) (Myles O'Brien)
 - Death of Julius Caesar (Stephen Paganelli)
 - [Caesar and Cleopatra](projects/cleopatra.md) (Siobhan Plummer)
 - [Sicilian colonization](projects/naxos.md) (Zak Jung and Jack Skinner)
