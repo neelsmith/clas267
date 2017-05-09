@@ -24,7 +24,7 @@ TBA : link to brief description of project modelling evidence for chronology.
 ## Individual projects
 
 - [Battle of Actium](projects/actium.md) (Julia Spiegel and Mark Vanderploeg)
-- Lunar eclipses in Ptolemy's *Almagest* (Mary Patrice Hamilton and Anthony Criscitiello)
+- [Lunar eclipses in Ptolemy's *Almagest*](projects/almagest.md) (Mary Patrice Hamilton and Anthony Criscitiello):
 - [Eruption of Vesuvius](projects/vesuvius.md) (Joe Aramini)
 - [Destruction of the Library of Alexandria](projects/library.md) (Nora Cowherd)
 - [Sack of Carthage](projects/carthage.md) (Jeffrey Dickinson)
