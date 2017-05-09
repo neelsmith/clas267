@@ -1,5 +1,6 @@
 ## Battle of Actium
 
+Julia Spiegel, Mark Vanderploeg
 
 ### Individual project network
 
