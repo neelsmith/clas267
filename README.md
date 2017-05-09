@@ -1,6 +1,6 @@
 # clas267
 
-This repository hosts chronological graphs built as part of course projects in CLAS267, "Archaeology and Time," at Holy Cross in the spring semester of 2017.
+This repository hosts chronological graphs built as part of course projects in CLAS267, "Archaeology and Time," at Holy Cross in the spring semester of 2017.  By using common identifiers, we integrated material from more than unified network of roughly 250 events
 
 
 (All images on these pages are linked to the full source image in this repository: click to follow the link.)
@@ -33,7 +33,7 @@ TBA : link to brief description of project modelling evidence for chronology.
 - First Olympic games (Stephanie Neville)
 - The plague in Athens (Myles O'Brien)
 - Death of Julius Caesar (Stephen Paganelli)
-- Caesar and Cleopatra (Siobhan Plummer)
+- [Caesar and Cleopatra](projects/cleopatra.md) (Siobhan Plummer)
 - [Sicilian colonization](projects/naxos.md) (Zak Jung and Jack Skinner)
 - Outbreak of the Peloponnesian war (Blake Werab)
 
