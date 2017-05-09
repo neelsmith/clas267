@@ -35,7 +35,7 @@ TBA : link to brief description of project modelling evidence for chronology.
 - Death of Julius Caesar (Stephen Paganelli)
 - [Caesar and Cleopatra](projects/cleopatra.md) (Siobhan Plummer)
 - [Sicilian colonization](projects/naxos.md) (Zak Jung and Jack Skinner)
-- Outbreak of the Peloponnesian war (Blake Werab)
+- [Outbreak of the Peloponnesian war](projects/pelopwar.md) (Blake Werab)
 
 
 ## How to use the included scripts
