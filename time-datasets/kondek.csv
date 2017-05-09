@@ -1,9 +1,10 @@
 Source,Event,Chronological relation,Units or system,Event2,Number of units
 Ptolemy's Canon of Kings,urn:cite2:chron:epoch:pto12,precedes,years,urn:cite2:chron:jer_alexandrians:ruler2,77
 Vanderpool,urn:cite2:chron:jer_alexandrians:ruler2,contemporary with,years,urn:cite2:chron:Koronicoin:13,0
-Vanderpool,urn:cite2:chron:Koronicoin:13,precedes,relative,urn:cite2:Koronideposit,0
+Vanderpool,urn:cite2:chron:Koronicoin:13,precedes,relative,urn:cite2:chron:Koronideposit,0
 Miller,urn:cite2:chron:Koronideposit,contemporary,relative,urn:cite2:chron:ChremonideanWar,0
-Miller,urn:cite2:chron:Koronideposit,follows,relative,urn:cite2:Koroniplate:PR34,0
+fMiller,urn:cite2:chron:Koronideposit,follows,relative,urn:cite2:Koroniplate:PR34,0
+Agora excavations,urn:cite2:chron:Koroniplate:PR34,precedes,relative,urn:cite2:chron:Koronideposit,0
 Agora excavations,urn:cite2:chron:Koroniplate:PR34,follows,relative,urn:cite2:chron:Menonplate:P28034,0
 Rotroff,urn:cite2:chron:Menonplate:P28034,contemporary,relative,urn:cite2:chron:Tholosplate:P4421,0
 Rotroff,urn:cite2:chron:Tholosplate:P4421,contemporary,relative,urn:cite2:chron:Peristyleplate:P31098,0
@@ -12,7 +13,7 @@ Rotroff,urn:cite2:chron:Peristyleplate:P31098,contemporary,relative,urn:cite2:ch
 Rotroff,urn:cite2:chron:Peristyleplate:P31111,contemporary,relative,urn:cite2:chron:Peristylecoin:N3564,0
 Rotroff,urn:cite2:chron:Peristylecoin:N3564,contemporary,relative,urn:cite2:chron:Tholoscoin:N3333,0
 Rotroff,urn:cite2:chron:Tholoscoin:N3333,precedes,relative,urn:cite2:chron:Agoradeposit:F11:2,0
-Agora excavations,urn:cite2:chron:Agoradeposit:F11:2,follow,relative,urn:cite2:chron:Saltcellar:P3509,0
+Agora excavations,urn:cite2:chron:Agoradeposit:F11:2,follows,relative,urn:cite2:chron:Saltcellar:P3509,0
 Rotroff,urn:cite2:chron:Saltcellar:P3509,contemporary,relative,urn:cite2:chron:SaltcellarsVergina,0
 Rotroff,urn:cite2:chron:Saltcellar:P27769,contemporary,relative,urn:cite2:chron:SaltcellarsVergina,0
 Rotroff,urn:cite2:chron:Saltcellar:P19358,contemporary,relative,urn:cite2:chron:SaltcellarsVergina,0
@@ -29,13 +30,20 @@ Agora excavations,urn:cite2:chron:Tholoscoin:N3212,contemporary,relative,urn:cit
 Agora excavations,urn:cite2:chron:Tholoscoin:N3231,precedes,relative,urn:cite2:chron:Tholoscoin:N3333,0
 Agora excavations,urn:cite2:chron:Tholoscoin:N3266,precedes,relative,urn:cite2:chron:Tholoscoin:N3333,0
 Agora excavations,urn:cite2:chron:Tholoscoin:N3287,precedes,relative,urn:cite2:chron:Tholoscoin:N3333,0
-Agora excavations,urn:cite2:chron:Koroniplate:PR30,follow,relative,urn:cite2:chron:Menonplate:P28134,0
-Agora excavations,urn:cite2:chron:Koroniplate:PR30,follow,relative,urn:cite2:chron:Menonplate:P28033,0
-Agora excavations,urn:cite2:chron:Koroniplate:PR32,follow,relative,urn:cite2:chron:Menonplate:P28134,0
-Agora excavations,urn:cite2:chron:Koroniplate:PR32,follow,relative,urn:cite2:chron:Menonplate:P28033,0
-Agora excavations,urn:cite2:chron:Koroniplate:PR33,follow,relative,urn:cite2:chron:Menonplate:P28134,0
-Agora excavations,urn:cite2:chron:Koroniplate:PR33,follow,relative,urn:cite2:chron:Menonplate:P28033,0
-Agora excavations,urn:cite2:chron:Koroniplate:PR34,follow,relative,urn:cite2:chron:Menonplate:P28034,0
+Agora excavations,urn:cite2:chron:Koroniplate:PR30,precedes,relative,urn:cite2:chron:Koronideposit,0
+Agora excavations,urn:cite2:chron:Koroniplate:PR32,precedes,relative,urn:cite2:chron:Koronideposit,0
+Agora excavations,urn:cite2:chron:Koroniplate:PR33,precedes,relative,urn:cite2:chron:Koronideposit,0
+Agora excavations,urn:cite2:chron:Koroniplate:PR34,precedes,relative,urn:cite2:chron:Koronideposit,0
+Agora excavations,urn:cite2:chron:Koroniplate:PR30,follows,relative,urn:cite2:chron:Menonplate:P28134,0
+Agora excavations,urn:cite2:chron:Koroniplate:PR30,follows,relative,urn:cite2:chron:Menonplate:P28033,0
+Agora excavations,urn:cite2:chron:Koroniplate:PR32,follows,relative,urn:cite2:chron:Menonplate:P28134,0
+Agora excavations,urn:cite2:chron:Koroniplate:PR32,follows,relative,urn:cite2:chron:Menonplate:P28033,0
+Agora excavations,urn:cite2:chron:Koroniplate:PR33,follows,relative,urn:cite2:chron:Menonplate:P28134,0
+Agora excavations,urn:cite2:chron:Koroniplate:PR33,follows,relative,urn:cite2:chron:Menonplate:P28033,0
+Agora excavations,urn:cite2:chron:Koroniplate:PR34,follows,relative,urn:cite2:chron:Menonplate:P28034,0
 Agora excavations,urn:cite2:chron:Menonkantharos:P27992,contemporary,relative,urn:cite2:chron:Koronikantharos:PR16,0
 Agora excavations,urn:cite2:chron:Menonkantharos:P27992,contemporary,relative,urn:cite2:chron:Koronikantharos:PR17,0
 Agora excavations,urn:cite2:chron:Menonkantharos:P27992,contemporary,relative,urn:cite2:chron:Koronikantharos:PR18,0
+Agora excavations,urn:cite2:chron:Koronikantharos:PR16,precedes,relative,urn:cite2:chron:Koronideposit,0
+Agora excavations,urn:cite2:chron:Koronikantharos:PR17,precedes,relative,urn:cite2:chron:Koronideposit,0
+Agora excavations,urn:cite2:chron:Koronikantharos:PR18,precedes,relative,urn:cite2:chron:Koronideposit,0
